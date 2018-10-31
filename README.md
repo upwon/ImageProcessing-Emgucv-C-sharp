@@ -1,7 +1,7 @@
 
-## ImageProcessing Emgucv图像处理
+# ImageProcessing Emgucv图像处理
 
-# 基于Emgucv实现的图像处理小软件
+## 基于Emgucv实现的图像处理小软件
 
 包括图像的基本操作、效果增强、特殊效果、数学形态、图像热区识别、文字转图片、
 二维码条形码生成与解析、基于emgucv实现的一些基本操作等等。
